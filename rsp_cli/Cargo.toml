@@ -7,3 +7,4 @@ edition = "2021"
 clap = { version = "4", features = ["derive"] }
 hex = "0.4"
 rsp_core = { path = "../rsp_core" }
+anyhow = "1.0"
