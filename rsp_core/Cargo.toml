@@ -1,5 +1,5 @@
 [package]
-name = "int_compress"
+name = "rsp_core"
 version = "0.1.0"
 edition = "2021"
 
