@@ -1,0 +1,9 @@
+[package]
+name = "rsp_cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+hex = "0.4"
+rsp_core = { path = "../rsp_core" }

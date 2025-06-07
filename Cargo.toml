@@ -1,5 +1,6 @@
 [workspace]
 members = [
-    "int_compress"
+    "rsp_core",
+    "rsp_cli"
 ]
 resolver = "2"
